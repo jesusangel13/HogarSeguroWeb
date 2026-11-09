@@ -1,0 +1,1 @@
+document.querySelectorAll('.card').forEach((c,i)=>c.style.setProperty('--delay',(i%3)*80+'ms'));

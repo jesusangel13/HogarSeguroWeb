@@ -1,0 +1,4 @@
+Un video fijo por página, silenciado y en bucle.
+Paisaje: Inicio, Problema, Solución, Impacto, Sostenibilidad, Modelo social y Contacto.
+Anime: Diagnóstico, Prototipo y Equipo.
+La ruta se define en el elemento video de cada HTML.

@@ -1,0 +1,1 @@
+document.querySelectorAll('[data-stage]').forEach(b=>b.onclick=()=>{document.querySelector('#stage').textContent=['Describe tu vivienda y necesidades.','Organizamos la información recibida.','Realizamos una orientación inicial.','Priorizamos señales y consultas profesionales.','Preparamos una ruta de mejora.','Revisamos avances y nuevas dudas.'][+b.dataset.stage]})
